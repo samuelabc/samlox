@@ -1,0 +1,12 @@
+fun fib(n) {
+  /*
+    hello /* aabv*//*aaa/*/*nnn*/*/*/
+  */var a = 1;
+  if (n < 2) return n;
+  return fib(n - 1) + fib(n - 2);
+}
+
+var before = clock();
+print fib(25);
+var after = clock();
+print after - before;
