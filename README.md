@@ -5,7 +5,7 @@
 
 ## Progress
 - [x] Lexical analysis
-- [ ] Syntactic analysis
+- [ ] Syntax analysis
 - [ ] ...
 
 ## Usage
