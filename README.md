@@ -10,9 +10,9 @@
 ## Usage
 - run the interpreter
 ```
-cargo run -- ./test/fib.lo
+cargo run -- ./test/fib.lox
 ```
 - run the interpreter, and show all scanned tokens
 ```
-cargo run -- --show-tokens ./test/fib.lo
+cargo run -- --show-tokens ./test/fib.lox
 ```
