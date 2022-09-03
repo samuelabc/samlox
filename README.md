@@ -4,7 +4,8 @@
 - Syntax of the Lox language can be found [here](https://craftinginterpreters.com/the-lox-language.html).
 
 ## Progress
-- [x] Lexing
+- [x] Lexical analysis
+- [ ] Syntactic analysis
 - [ ] ...
 
 ## Usage
